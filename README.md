@@ -62,3 +62,11 @@ https://medium.com/@cd_24/using-bertopic-to-analyze-qatar-world-cup-twitter-data
 ```
 ## Code
 The codes programmed in this project are displayed in this repository. Feel free to check and use them. 
+
+## Relevant Materials
+If you are curious to know more details about topic based sentiment analysis, go check my posts on Medium.
+
+- [Using BERTopic to Analyze Qatar World Cup Twitter Data: Part 1](https://medium.com/@cd_24/using-bertopic-to-analyze-qatar-world-cup-twitter-data-a5956c4949f1)
+- [Using BERTopic to Analyze Qatar World Cup Twitter Data: Part 2](https://medium.com/@cd_24/using-bertopic-to-analyze-qatar-world-cup-twitter-data-part-2-19406a74584a)
+- [Using BERTopic to Analyze Qatar World Cup Twitter Data: Part 3](https://medium.com/@cd_24/using-bertopic-to-analyze-qatar-world-cup-twitter-data-part-3-b220630fd894)
+- [Topic Based Sentiment Analysis: Linking Topic Modeling with Sentiment Analysis](https://medium.com/@cd_24/topic-based-sentiment-analysis-linking-topic-modeling-with-sentiment-analysis-ab4d99125365)
