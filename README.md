@@ -1,7 +1,7 @@
 
 # Topic Based Sentiment Analysis on Qatar World Cup Twitter Data
 
-Qatar World Cup was full of surprises! From Saudi Arabia shocking the world by upsetting Argentina to Morocco's historic run to the semifinals, you must heard or witnessed those moments during that soccer craze. In this post, I will firt use **BERTopic** to **model topics** on tweets posted during the World Cup 2022. Then I will use **Hugging Face API** to do a **sentiment analysis** on those tweets. Finally, I will connect the topic modeling and sentiment analysis to conduct **topic based sentiment analysis**. 
+Qatar World Cup was full of surprises! From Saudi Arabia shocking the world by upsetting Argentina to Morocco's historic run to the semifinals, you must heard or witnessed those moments during that soccer craze. In this project, I will firt use **BERTopic** to **model topics** on tweets posted during the World Cup 2022. Then I will use **Hugging Face API** to do a **sentiment analysis** on those tweets. Finally, I will connect the topic modeling and sentiment analysis to conduct **topic based sentiment analysis**. 
 
 
 ## Visualization 
